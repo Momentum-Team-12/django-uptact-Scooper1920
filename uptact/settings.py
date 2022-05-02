@@ -48,6 +48,7 @@ INSTALLED_APPS = [
     # Project-specific
     'users',
     'contacts',
+    
 ]
 
 MIDDLEWARE = [
